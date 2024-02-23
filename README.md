@@ -44,6 +44,14 @@ Phone Book App is a simple web application built with React, Apollo Client, and 
 
 5. Open (http://localhost:3000) to view the app in your browser.
 
+   
+6. Navigate to server directory :
+
+   ```
+   node server.js
+   ```
+7. Open (localhost:4000) to view the server side.
+
 ## Usage
 
 - Enter a contact name in the search input field to search for contacts by name.
